@@ -4,3 +4,42 @@
     background-size: cover;
     color: white;
 }
+
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    color: #666; 
+  }
+  
+  .footer-section {
+    padding-top: 20px;
+    background: #e9ecef;
+    border-top: 2px solid #666;
+  }
+  
+  .guess {
+    margin-bottom: 50px;
+    border: 2px solid #666;
+    margin-top: 20px;
+  }
+  
+  h2 {
+    text-decoration: underline;
+    text-decoration-color: #666; 
+  }
+  
+  #random-total,
+  #cat-totals
+  {
+    font-size: 28px;
+    color: red;
+    min-height: 42px;
+  }
+  
+  #losses,
+  #wins 
+  {
+      font-size: 28px;
+      min-height: 42px;
+      color: #666;
+  
