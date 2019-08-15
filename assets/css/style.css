@@ -18,10 +18,6 @@ body {
     margin-top: 20px;
   }
 
-  .row{
-      float: left;
-  }
-  
   h2 {
     text-decoration: underline;
     text-decoration-color: #666; 
