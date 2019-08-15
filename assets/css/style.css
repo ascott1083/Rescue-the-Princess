@@ -9,12 +9,7 @@ body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 18px;
     color: #666; 
-  }
-  
-  .footer-section {
-    padding-top: 20px;
-    background: #e9ecef;
-    border-top: 2px solid #666;
+    background-color: black;
   }
   
   .guess {
