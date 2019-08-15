@@ -1,9 +1,9 @@
 $(document).ready(function(){
 
 // add variables and object for the four items to click
-const matchNumber;
-const wins = 0;
-const losses = 0;
+let matchNumber;
+let wins = 0;
+let losses = 0;
 
 const heros = [
   {
