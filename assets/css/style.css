@@ -1,8 +1,10 @@
 .jumbotron{
-    margin-top: 20px;
-    background-image: url(https://i.ytimg.com/vi/X7r4K1wocRc/maxresdefault.jpg);
+    margin-top: -96px;
+    background-image: url(https://static1.comicvine.com/uploads/original/11129/111291141/5272169-4386486-bowser.jpg);
     background-size: cover;
     color: white;
+    padding-top: 200px;
+    border-radius: 30px;
 }
 
 body {
